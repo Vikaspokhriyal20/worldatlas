@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "question": "What is the population of the world",
+        "answer": "As of 2023, the world population is approximately 8 billion people."
+    },
+    {
+        "id":2,
+        "question": "Which is the largest ocean on Earth",
+        "answer": "The Pacific Ocean is the largest ocean, covering over 63 million square miles and accounting for more than 30% of the Earth's surface."
+    },
+    {
+        "id":3,
+        "question": "Which is the largest country by land area",
+        "answer": "Russia is the largest country by land area, covering over 17 million square kilometers."
+    },
+    {
+        "id":4,
+        "question": "What is the tallest mountain in the world",
+        "answer": "Mount Everest, located in the Himalayas, is the tallest mountain in the world, standing at 8,848 meters (29,029 feet)."
+    },
+    {
+        "id":5,
+        "question": "Which is the longest river in the world",
+        "answer": "The Nile River in Africa is often considered the longest river, stretching about 6,650 kilometers (4,130 miles)."
+    },
+    {
+        "id":6,
+        "question": "How many countries are there in the world",
+        "answer": "There are 195 countries in the world, including 193 member states of the United Nations and 2 observer states (the Holy See and Palestine)."
+    }
+]

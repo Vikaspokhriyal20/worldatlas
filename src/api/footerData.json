@@ -1,0 +1,17 @@
+[
+   {
+      "icon": "ImLocation2",
+      "title": "Find us",
+      "details": "Ludhiana, Punjab"
+   },
+   {
+      "icon": "IoCall",
+      "title": "Call us",
+      "details": 9997485462
+   },
+   {
+      "icon": "MdEmail",
+      "title": "Mail us",
+      "details": "locatervikas@gmail.com"
+   }
+]
