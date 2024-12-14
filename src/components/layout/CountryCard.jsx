@@ -14,7 +14,7 @@ const CountryCard = ({ country }) => {
               <p>Region : <span className="spanwhite">{region}</span></p>
               <p>Capital : <span className="spanwhite">{capital[0]}</span> </p>
               <NavLink to={`/country/${name.common}`}>
-                  <span className='spanwhite'>Read More...</span>
+                  <span className='read-more'>Read More...</span>
               </NavLink>
           </div>
     </li>

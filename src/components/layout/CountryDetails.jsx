@@ -20,6 +20,7 @@ const CountryDetails = () => {
 
   if (isPending) return <Loader />;
 
+
   return (
     <section>
       <div className='container'>
@@ -64,7 +65,7 @@ const CountryDetails = () => {
           )}
           <div className="back-btn">
             <NavLink to={'/country'}>
-                Go Back
+              Go Back
             </NavLink>
           </div>
         </div>

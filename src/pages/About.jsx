@@ -15,14 +15,14 @@ const About = () => {
         {countryData.map((country) => {
           const { id, interesting_fact, population, name, capital } = country;
           return (
-            <div className="card  " key={id}>
+            <div className="card" key={id}>
               <h4 className='countryname'> <span className='spanwhite'> {name}</span></h4>
               <p className='capital'>Capital : <span className='spanwhite'> {capital}</span></p>
               <p className='population'>Population :
                 <span className='spanwhite'> {population}</span>
               </p>
-              <p className='fact'>Interesting Fact : 
-                 <span className='spanwhite'> {interesting_fact}</span>
+              <p className='fact'>Interesting Fact :
+                <span className='spanwhite'> {interesting_fact}</span>
               </p>
             </div>
           )
